@@ -24,7 +24,7 @@
 
 Cybersecurity threats continue to rise every year, placing individuals, businesses, and government institutions at risk of cybercrime.
 
-The **Cybersecurity Awareness Chatbot** is an interactive desktop application developed in **C#** to educate users about online safety through engaging conversations, practical cybersecurity tips, quizzes, reminders, and task management.
+C.O.B.I (Cybersecurity-Oriented Buddy Intelligence) is an interactive desktop application developed in **C#** to educate users about online safety through engaging conversations, practical cybersecurity tips, quizzes, reminders, and task management.
 
 This project begins as a **Console Application** before evolving into a fully featured **Windows Desktop Application (WPF)**, following real-world software development practices where applications grow over time instead of being rebuilt from scratch.
 
@@ -130,7 +130,7 @@ Stores:
 # 🏗️ Software Architecture
 
 ```
-CybersecurityAwarenessBot
+C.O.B.I
 
 │
 ├── Console Application (Part 1)
@@ -169,7 +169,7 @@ CybersecurityAwarenessBot
 # 📂 Project Structure
 
 ```
-Cybersecurity-Awareness-Chatbot
+C.O.B.I-Chatbot
 
 │
 ├── .github
@@ -191,7 +191,7 @@ Cybersecurity-Awareness-Chatbot
 │
 ├── README.md
 │
-└── CybersecurityAwarenessBot.sln
+└── C.O.B.I.sln
 ```
 
 ---
@@ -263,7 +263,7 @@ Cybersecurity-Awareness-Chatbot
 ## Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/Cybersecurity-Awareness-Chatbot.git
+git clone https://github.com/ST10399080/C.O.B.I.git
 ```
 
 ---
@@ -271,7 +271,7 @@ git clone https://github.com/YourUsername/Cybersecurity-Awareness-Chatbot.git
 ## Open the solution
 
 ```
-CybersecurityAwarenessBot.sln
+C.O.B.I.sln
 ```
 
 Open with:
@@ -301,7 +301,7 @@ Ctrl + Shift + B
 Start
 
 ```
-CybersecurityAwareness.Console
+C.O.B.I.Console
 ```
 
 ---
@@ -311,7 +311,7 @@ CybersecurityAwareness.Console
 Start
 
 ```
-CybersecurityAwareness.WPF
+C.O.B.I.WPF
 ```
 
 ---
@@ -378,7 +378,7 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Developer
 
-**Your Name**
+**Fezile Jam-Jam**
 
 Software Developer
 
@@ -386,7 +386,7 @@ Software Developer
 
 🌍 South Africa
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/ST10399080
 
 ---
 
