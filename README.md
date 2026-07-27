@@ -382,7 +382,7 @@ This project is licensed under the **MIT License**.
 
 Software Developer
 
-📧 Email: [your@email.com](mailto:your@email.com)
+📧 Email: [your@email.com](ST10399080@rcconnect.edu.za)
 
 🌍 South Africa
 
